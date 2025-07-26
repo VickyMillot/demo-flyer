@@ -1,0 +1,137 @@
+{
+    "presentation": {
+        "title": "",
+        "subtitle": "Sous-titre",
+        "cta": "Voir"
+    },
+    "about": {
+        "title": "À propos de moi",
+        "paragraphs": [
+            "Photographe professionnel basé à Toulouse, je capture les instants précieux avec sensibilité, lumière et intention.",
+            "Mon style mêle le naturel et l’épure, toujours au service de l’émotion."
+        ],
+        "signature": "— Alexandre M.",
+        "badge": "+10 ans d’expérience",
+        "portrait": "marc.png"
+    },
+    "gallery": {
+        "legendTitle": "Un aperçu de mon univers",
+        "legendText": "Mon objectif est de raconter une histoire à travers chaque image, qu’il s’agisse d’un instant capturé sur le vif, d’un portrait travaillé, ou d’une lumière parfaitement domptée.",
+        "images": [
+            {
+                "src": "https:\/\/picsum.photos\/id\/1011\/800\/500",
+                "title": "Instant volé en lumière dorée",
+                "description": "Portrait pris en fin de journée, où la lumière rasante sublime chaque détail.",
+                "author": "Photo : Alexandre M."
+            },
+            {
+                "src": "https:\/\/picsum.photos\/id\/1015\/800\/500",
+                "title": "Éclat sauvage",
+                "description": "Un paysage saisissant sculpté par le temps : une crevasse profonde traversée d’un courant lumineux, aux couleurs vibrantes et naturelles.",
+                "author": "Photo : Alexandre M."
+            },
+            {
+                "src": "https:\/\/picsum.photos\/id\/1025\/800\/500",
+                "title": "Nature brute",
+                "description": "La puissance du décor naturel pour mettre en valeur un sujet simple.",
+                "author": "Photo : Alexandre M."
+            },
+            {
+                "src": "https:\/\/picsum.photos\/id\/1005\/800\/500",
+                "title": "Contemplation marine",
+                "description": "Silhouette féminine capturée dans un moment suspendu, face à l’immensité de l’océan. Une ambiance sépia douce et poétique.",
+                "author": "Photo : Alexandre M."
+            }
+        ]
+    },
+    "formulesSection": {
+        "title": "Prestations photo",
+        "formules": [
+            {
+                "titre": "Séance Portrait",
+                "description": "30 minutes en studio ou en extérieur, 5 photos retouchées au choix.",
+                "prix": "90€"
+            },
+            {
+                "titre": "Reportage Événementiel",
+                "description": "Couverture photo pour vos événements (anniversaire, baptême, soirée pro).",
+                "prix": "À partir de 250€"
+            },
+            {
+                "titre": "Shooting Sur-Mesure",
+                "description": "Projet personnalisé, lieu, durée et style adaptés à vos envies.",
+                "prix": "Sur devis"
+            }
+        ]
+    },
+    "servicesSection": {
+        "title": "Prestations",
+        "services": [
+            {
+                "icon": "smile",
+                "title": "Portraits créatifs",
+                "desc": "Des clichés expressifs, esthétiques, qui racontent votre histoire.",
+                "color": "#ff7f50"
+            },
+            {
+                "icon": "calendar",
+                "title": "Événements & mariages",
+                "desc": "Des moments authentiques saisis avec discrétion et émotion.",
+                "color": "#87cefa"
+            },
+            {
+                "icon": "object-group",
+                "title": "Séries artistiques",
+                "desc": "Travaux photographiques personnels, collaborations et expositions.",
+                "color": "#daa520"
+            }
+        ]
+    },
+    "testimonialsSection": {
+        "title": "Ils m'ont fait confiance",
+        "testimonials": [
+            {
+                "name": "Marc B.",
+                "role": "Coach Sportif",
+                "time": "il y a 5 heures",
+                "avatar": "marc.png",
+                "stars": 5,
+                "text": "Alexandre a su capturer l’essence de ma pratique avec une grande sensibilité. Les photos sont dynamiques, naturelles, et parfaitement cadrées. Un vrai coup de cœur !"
+            },
+            {
+                "name": "Sophie L.",
+                "role": "Architecte",
+                "time": "il y a 1 jour",
+                "avatar": "sophie.png",
+                "stars": 4,
+                "text": "J’avais besoin de portraits professionnels pour mon site. Alexandre m’a mise à l’aise immédiatement et le rendu est d’une élégance incroyable. Merci encore !"
+            }
+        ]
+    },
+    "images": [
+        {
+            "src": "https:\/\/picsum.photos\/id\/1011\/800\/500",
+            "title": "Instant volé en lumière dorée",
+            "description": "Portrait pris en fin de journée, où la lumière rasante sublime chaque détail.",
+            "author": "Photo : Alexandre M."
+        },
+        {
+            "src": "https:\/\/picsum.photos\/id\/1015\/800\/500",
+            "title": "Éclat sauvage",
+            "description": "Un paysage saisissant sculpté par le temps : une crevasse profonde traversée d’un courant lumineux, aux couleurs vibrantes et naturelles.",
+            "author": "Photo : Alexandre M."
+        },
+        {
+            "src": "https:\/\/picsum.photos\/id\/1025\/800\/500",
+            "title": "Nature brute",
+            "description": "La puissance du décor naturel pour mettre en valeur un sujet simple.",
+            "author": "Photo : Alexandre M."
+        },
+        {
+            "src": "https:\/\/picsum.photos\/id\/1005\/800\/500",
+            "title": "Contemplation marine",
+            "description": "Silhouette féminine capturée dans un moment suspendu, face à l’immensité de l’océan. Une ambiance sépia douce et poétique.",
+            "author": "Photo : Alexandre M."
+        }
+    ]
+}
