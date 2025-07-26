@@ -1,8 +1,9 @@
 {
     "presentation": {
-        "title": "",
-        "subtitle": "Sous-titre",
-        "cta": "Voir"
+        "title": "Bienvenue sur L’Œil d'Alexandre",
+        "mainText": "Photographe professionnel spécialisé dans les portraits, les reportages et les instants de vie capturés avec sensibilité.",
+        "highlight": "Chaque photo raconte une histoire, avec authenticité et émotion.",
+        "cta": "Découvrir mon portfolio"
     },
     "about": {
         "title": "À propos de moi",
