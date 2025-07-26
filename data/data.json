@@ -13,7 +13,7 @@
         ],
         "signature": "— Alexandre M.",
         "badge": "+10 ans d’expérience",
-        "portrait": "marc.png"
+        "portrait": "/assets/marc.png"
     },
     "gallery": {
         "legendTitle": "Un aperçu de mon univers",
@@ -95,7 +95,7 @@
                 "name": "Marc B.",
                 "role": "Coach Sportif",
                 "time": "il y a 5 heures",
-                "avatar": "marc.png",
+                "avatar": "/assets/marc.png",
                 "stars": 5,
                 "text": "Alexandre a su capturer l’essence de ma pratique avec une grande sensibilité. Les photos sont dynamiques, naturelles, et parfaitement cadrées. Un vrai coup de cœur !"
             },
