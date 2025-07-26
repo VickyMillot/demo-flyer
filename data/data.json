@@ -13,7 +13,7 @@
         ],
         "signature": "— Alexandre M.",
         "badge": "+10 ans d’expérience",
-        "portrait": "/demo-flyer/assets/marc.png"
+        "portrait": "marc.png"
     },
     "gallery": {
         "legendTitle": "Un aperçu de mon univers",
@@ -95,7 +95,7 @@
                 "name": "Marc B.",
                 "role": "Coach Sportif",
                 "time": "il y a 5 heures",
-                "avatar": "/demo-flyer/assets/marc.png",
+                "avatar": "marc.png",
                 "stars": 5,
                 "text": "Alexandre a su capturer l’essence de ma pratique avec une grande sensibilité. Les photos sont dynamiques, naturelles, et parfaitement cadrées. Un vrai coup de cœur !"
             },
@@ -103,7 +103,7 @@
                 "name": "Sophie L.",
                 "role": "Architecte",
                 "time": "il y a 1 jour",
-                "avatar": "/demo-flyer/assets/sophie.png",
+                "avatar": "sophie.png",
                 "stars": 4,
                 "text": "J’avais besoin de portraits professionnels pour mon site. Alexandre m’a mise à l’aise immédiatement et le rendu est d’une élégance incroyable. Merci encore !"
             }
